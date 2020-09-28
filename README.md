@@ -22,3 +22,11 @@ Knockpy
 Gobuster
 
 Dirbuster
+
+Google Dorks
+
+Netcat
+
+Nmap
+
+Metasploit
