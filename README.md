@@ -29,4 +29,13 @@ Netcat
 
 Nmap
 
+subfinder
+
 Metasploit
+
+
+hakrawler
+
+assetfinder
+
+amass
