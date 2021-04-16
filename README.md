@@ -3,43 +3,16 @@ Best Tools For Bug Hunter
 
 Burp Suite
 
-Sublist3r
-
-Wfuzz
-
-sqlmap
-
-Wpscan
-
-wafwoof
-
-CMSmap
-
-XSStrike
-
-Knockpy
-
-Gobuster
-
-Dirbuster
-
-Google Dorks
-
-Netcat
-
-Nmap
-
-subfinder
-
-Metasploit
-
-
-hakrawler
-
-gf
+Subfinder
 
 assetfinder
 
 amass
 
-hakrawler
+httpx
+
+nuclei
+
+dirbsearch
+
+XSStrike
